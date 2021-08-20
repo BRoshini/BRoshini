@@ -1,0 +1,19 @@
+{
+"users":[
+{
+ "Name":"roshini";
+ "age": 22;
+"I'd":1
+},
+{
+ "Name":"sandhya";
+ "age": 22;
+"I'd":2
+},
+{
+ "Name":"cherishma";
+ "age": 20;
+"I'd":1
+}
+]
+}
